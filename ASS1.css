@@ -1,0 +1,64 @@
+body{
+text-align: center;
+
+    
+}
+.all{
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f8fce5;
+    box-shadow: 0 0 10px rgba(80, 78, 78, 0.1);
+    font-family:Arial, Helvetica, sans-serif;
+}
+html, body {
+    width: 100%;
+}
+.skills, td {
+    border: 1px solid;
+}
+.skills{
+    width: 100%;
+
+}
+img {
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.skills{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .Profile{
+    text-align: center;
+}
+.Courses{
+
+    text-align: center;
+}
+.Experience{
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.Extracurricular Activity{
+    text-align: center;
+}
+.language{
+    text-align: center;
+} */
